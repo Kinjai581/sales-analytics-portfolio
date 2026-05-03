@@ -71,7 +71,7 @@ sales-analytics-portfolio/
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](https://github.com/Kinjai581/sales-analytics-portfolio/blob/main/AnalyticsPortfolio/images/dashboard.png)
 
 ---
 
