@@ -96,7 +96,7 @@ sales-analytics-portfolio/
 ## Power BI File
 Download and explore the interactive dashboard locally:
 
-[Download .pbix file] ([https://github.com/Kinjai581/sales-analytics-portfolio/blob/main/AnalyticsPortfolio/powerbi/sales dashboard.pbix]))
+[Download .pbix file] ([https://github.com/Kinjai581/sales-analytics-portfolio/blob/main/AnalyticsPortfolio/powerbi/sales_dashboard.pbix]))
 
 ---
 
