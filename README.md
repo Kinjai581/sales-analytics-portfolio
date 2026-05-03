@@ -93,9 +93,10 @@ sales-analytics-portfolio/
 
 ---
 
-## Interactive Dashboard
+## Power BI File
+Download and explore the interactive dashboard locally:
 
-*(Link will be added after deployment)*
+[Download .pbix file](powerbi/your_file_name.pbix)
 
 ---
 
